@@ -1,12 +1,18 @@
-# React + Vite
+# Simple Omelette Recipe Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a responsive recipe card built using **React** and **Tailwind CSS**. It showcases a delicious omelette recipe with sections for preparation time, ingredients, instructions, and nutrition facts.
 
-Currently, two official plugins are available:
+## 📸 Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![screencapture-localhost-5173-2025-04-30-22_24_11](https://github.com/user-attachments/assets/708a13ad-01ea-427e-b529-a85d9e2ea19e)
 
-## Expanding the ESLint configuration
+![screencapture-localhost-5173-2025-04-30-22_24_51](https://github.com/user-attachments/assets/9f026c25-f0b6-459c-b72f-696bbc42d386)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Technologies
+
+- React
+- Vite
+- Tailwind CSS
+
+
+
